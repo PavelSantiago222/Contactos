@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "135507863740",
+    "firebase_url": "https://contactapp-a57b1-default-rtdb.firebaseio.com",
+    "project_id": "contactapp-a57b1",
+    "storage_bucket": "contactapp-a57b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135507863740:android:36e4dbf534537a18c588b9",
+        "android_client_info": {
+          "package_name": "com.example.contactos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVHWiuwvchtjpLLV4pvGeJHX0ci7lcUIY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
